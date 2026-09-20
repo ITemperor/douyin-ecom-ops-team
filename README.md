@@ -9,6 +9,10 @@
 - 版本：v1.1.0
 - 归属：沈艳朝（策划组-沈艳朝）｜ 维护：Emperor
 - 适用：抖音电商 / 抖店矩阵 / 直播间 / 千川投放 / 生鲜与特产类目
+- 仓库：<https://github.com/ITemperor/douyin-ecom-ops-team>
+- 许可：MIT
+
+> 说明：GitHub 仓库名不支持中文，「电商运营专家团」这个中文名放在项目标题与描述中，仓库 slug 用 `douyin-ecom-ops-team`（与 WorkBuddy 专家包 ID 一致）。
 
 ---
 
@@ -23,7 +27,14 @@ C:\Users\Administrator\.workbuddy\skills\douyin-ecom-ops-team\
 
 放好后**重启 WorkBuddy** 即可在技能列表中看到。
 
-### 方式 2：作为专家包注册（多角色协作模式）
+### 方式 2：从 GitHub 拉取
+
+```bash
+git clone https://github.com/ITemperor/douyin-ecom-ops-team.git \
+  "C:\Users\Administrator\.workbuddy\skills\douyin-ecom-ops-team"
+```
+
+### 方式 3：作为专家包注册（多角色协作模式）
 
 本仓库的 `agents/` + `plugin.json` 结构可直接作为 Team 型专家包注册到
 `C:\Users\Administrator\.workbuddy\plugins\marketplaces\my-experts\plugins\`，注册后会在 WorkBuddy 右侧显示为「电商运营专家团」。
