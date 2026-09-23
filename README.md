@@ -6,7 +6,7 @@
 核心价值是**避免单点视角**——你问投放，投放只会让你加预算；10 岗会诊才会告诉你问题其实在详情页和客服口径。
 
 - 技能名：`douyin-ecom-ops-team`
-- 版本：v1.2.0
+- 版本：v1.4.0
 - 归属：沈艳朝（策划组-沈艳朝）｜ 维护：Emperor
 - 适用：抖音电商 / 抖店矩阵 / 直播间 / 千川投放 / 生鲜与特产类目
 - 仓库：<https://github.com/ITemperor/douyin-ecom-ops-team>
@@ -157,3 +157,17 @@ git clone https://github.com/ITemperor/douyin-ecom-ops-team.git \
 | v1.1.0 | 2026-09-20 | **新增第 10 岗「设计·商美陈」**（商品详情页 + 店铺装修）；同步主理人 SOP、评估矩阵、路由表；补齐 `settings.json`；汇总为独立 Skill 并出使用文档 |
 | v1.2.0 | 2026-09-23 | **运营总监挂载「中国电商搜索」技能**（`cn-ecommerce-search`）：8 平台选品比价与供应链取证；新增能力条目、调用纪律与路由表项 |
 | v1.3.0 | 2026-09-23 | **全员挂载本地 Obsidian 知识库**（`D:\agent\obsidian\ObsidianVault`）：10 个角色各配「本职必读」分区清单 + 检索优先/事实边界/合规优先/反哺入库四条铁律；SKILL.md 新增分区路由表与铁律第 5 条；`members.md` 每岗补「知识库挂载」行 |
+| v1.4.0 | 2026-09-23 | **README 底部新增「免费赞助」二维码**（`assets/sponsor-qr.png`）；版本信息与版本记录对齐 |
+
+---
+
+## 八、免费赞助
+
+这套东西是白送的：**不收费、不锁功能、不塞广告**。如果它帮你省了时间、或者多赚了钱，
+可以扫码请 Emperor 喝杯茶 —— 完全自愿，不打赏也照样用、照样更新。
+
+<p align="center">
+  <img src="assets/sponsor-qr.png" alt="免费赞助 · Emperor、| 说事-不闲聊" width="280">
+</p>
+
+<p align="center"><sub>扫码可备注一句你在做什么类目，方便后续针对性更新</sub></p>
